@@ -46,7 +46,7 @@ y_mean=m*3+b
 
 ## Output:
 
-![best fit line](ml12.png)
+![best fit line](mlexp1.png)
 
 
 ## Result:
