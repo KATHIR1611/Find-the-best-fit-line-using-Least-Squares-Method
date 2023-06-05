@@ -1,4 +1,4 @@
-# EX: 1 Implementation of Univariate Linear Regression                                                                                                                                                                                                             
+# EXP:1 Implementation of Univariate Linear Regression                                                                                                                                                                                                             
 
 Date : 
                                                                                                                                                                                                                                          
