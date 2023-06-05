@@ -1,4 +1,4 @@
-# EX: 1 Implementation of Univariate Linear Regression                                                                                                                                                                                                             # kn
+# EX: 1 Implementation of Univariate Linear Regression                                                                                                                                                                                                             
 
 Date : 
                                                                                                                                                                                                                                          
